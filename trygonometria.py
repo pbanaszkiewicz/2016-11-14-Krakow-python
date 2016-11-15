@@ -26,3 +26,6 @@ def cos(x):
     else:
         return False
 
+def tan(x):
+    return sin(x) / cos(x)
+
